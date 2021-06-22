@@ -23,7 +23,7 @@ npm run export
 ###### Branches
 - [main](https://github.com/nanj-red/nanj-red/tree/main/)
 - [docs](https://github.com/nanj-red/nanj-red/tree/docs/)
-<!-- - [dev](https://github.com/nanj-red/reddit/tree/dev) -->
+- [dev](https://github.com/nanj-red/nanj-red/tree/dev/)
 
 #### Creator
 Your article will be reviewed by members and then published our website. 
